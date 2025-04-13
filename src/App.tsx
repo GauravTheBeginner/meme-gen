@@ -118,7 +118,7 @@ function App() {
     <div className="min-h-screen bg-[#000090] text-white">
       <div className="container mx-auto px-4 py-4 sm:py-8">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-center mb-4 sm:mb-8">
-          Gif Hub
+          Gif-Hub
         </h1>
         
         <form onSubmit={handleSearch} className="max-w-xl mx-auto mb-4 sm:mb-8">
